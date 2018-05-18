@@ -1,0 +1,1 @@
+select product_id, productname, price, img from shelves;
